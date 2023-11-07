@@ -1,0 +1,5 @@
+# CinemaFacts
+Uno de los artes más populares a nivel mundial es el cine, y parece ser una de las expresiones artísticas que mas se han hecho dispopnibles para la población en general. A lo largo de los años, el cine ha crecido de manera exponencial, amasando una gran cantidad de aficionados, quienes también se hacen llamar "cinéfilos". 
+
+Esta idea surgió tras una necesidad personal, pues soy una persona que ama ver películas. A menudo, cuando termino alguna película, me gusta investigar más sobre las cintas que veo, para así descubrir más sobre su producción, sus actores, y más datos curiosos.
+Hablando con más amigos aficionados del cine, descubrí que no soy la única que disfruta de esto: así surgió la idea de crear un espacio en el que se recopilen datos interesantes sobre la producción de distintos proyectos cinematgráficos incluyendo largometrajes, cortometrajes, documentales, videos musicales. Esto con la finalidad de facilitar la tarea de investigar en distintos sitios y tener un solo lugar donde encontrar este tipo de información. 
